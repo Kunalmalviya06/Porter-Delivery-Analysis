@@ -1,7 +1,7 @@
 
-![Dashboard 1](Dashboard.pdf)
+![Dashboard 1](Dashboard.jpg)
 
-![Dashboard 2](Dashboard2.pdf)
+![Dashboard 2](Dashboard2.jpg)
 
 # Porter Delivery Analysis
 
